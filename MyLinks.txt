@@ -1,1 +1,5 @@
-https://github.com/Esmailx/CloudHW.git
+#github
+https://github.com/Esmailx/vscode-HW.git
+
+#netlify
+https://alanowdhw.netlify.app/
