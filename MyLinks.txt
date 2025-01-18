@@ -6,3 +6,6 @@ https://alanowdhw.netlify.app/
 
 #infinityfree
 esmail.infinityfreeapp.com
+
+#firebase
+https://esmail-2d9d2.web.app
